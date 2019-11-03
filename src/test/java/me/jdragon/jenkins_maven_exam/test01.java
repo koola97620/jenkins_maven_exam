@@ -17,4 +17,9 @@ public class test01 {
     assertThat("abc").isEqualTo(str);
   }
 
+  @Test
+  public void check() {
+    
+  }
+
 }
